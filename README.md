@@ -12,7 +12,11 @@ Sustained cell signalling and proliferation is a hallmark of cancer cells. A con
 Drug resistance continues to challenge research efforts in finding a cure for cancer, therefore understanding drug resistance as well as identifying the mechanisms by which it occurs is crucial for developing more effective cancer treatments.
 
 References
+
 Lev S. 2020. Targeted therapy and drug resistance in triple-negative breast cancer: The EGFR axis. Biochem Soc Trans 48(2):657–65.
+
 Mansoori B, Mohammadi A, Davudian S, Shirjang S, Baradaran B. 2017. The different mechanisms of cancer drug resistance: A brief review. Adv Pharm Bull 7(3):339–48.
+
 Rosenzweig SA. 2012. Acquired resistance to drugs targeting receptor tyrosine kinases. Biochem Pharmacol 83(8):1041–8.
+
 Wang X, Zhang H, Chen X. 2019. Drug resistance and combating drug resistance in cancer. Cancer Drug Resist 2(2):141–60.
