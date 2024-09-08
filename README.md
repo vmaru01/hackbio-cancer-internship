@@ -1,14 +1,7 @@
 <!--StartFragment-->
-
-\
-
-**DRUG RESISTANCE IN CANCERS**
+## DRUG RESISTANCE IN CANCERS
 
 **Presented by Victor Maru**
-
-**HackBio Internship 2024**
-
-\
 
 
 When treating a disease, microorganisms such as bacteria and viruses are often exposed to antimicrobials, drugs used to fight or control infections caused by these organisms. Over continuous exposure, however, organisms can adapt and become more tolerant to treatments via mechanisms that counteract the drug effects. As a result, drugs can become less effective and, sometimes, completely lose their potency against such organisms. The occurrence of these mechanisms that enable the continued survival of an organism after treatment is termed drug resistance.
@@ -30,8 +23,5 @@ Mansoori B, Mohammadi A, Davudian S, Shirjang S, Baradaran B. 2017. The differen
 Rosenzweig SA. 2012. Acquired resistance to drugs targeting receptor tyrosine kinases. Biochem Pharmacol 83(8):1041–8.
 
 Wang X, Zhang H, Chen X. 2019. Drug resistance and combating drug resistance in cancer. Cancer Drug Resist 2(2):141–60.
-
-\
-
 
 <!--EndFragment-->
