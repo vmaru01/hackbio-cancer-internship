@@ -1,46 +1,13 @@
 <!--StartFragment-->
 
 \
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
 
 **DRUG RESISTANCE IN CANCERS**
 
 **Presented by Victor Maru**
 
-\
-\
-\
-\
-\
-\
-\
-
-
 **HackBio Internship 2024**
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 \
 
 
