@@ -14,7 +14,7 @@ Sustained cell signalling and proliferation is a hallmark of cancer cells. A con
 
 Drug resistance continues to challenge research efforts in finding a cure for cancer, therefore understanding drug resistance as well as identifying the mechanisms by which it occurs is crucial for developing more effective cancer treatments.
 
-References
+### References
 
 Lev S. 2020. Targeted therapy and drug resistance in triple-negative breast cancer: The EGFR axis. Biochem Soc Trans 48(2):657–65.
 
